@@ -1,3 +1,5 @@
 - [Teach Yourself Programming in Ten Years](https://www.norvig.com/21-days.html)-[十年学会编程(译文)](http://daiyuwen.freeshell.org/gb/misc/21-days-cn.html)
 - [程序员如何把控自己的职业](https://coolshell.cn/articles/20977.html)
 - [入行 15 年，我还是觉得编程很难](https://mp.weixin.qq.com/s/B7Z0ROkiBqqxVKkLNR9BxQ)
+- [如何学习编程并找到开发者工作 [完整指南]](https://www.freecodecamp.org/chinese/news/learn-to-code-book/)
+- [侯捷的职业建议](https://www.ruanyifeng.com/blog/2008/05/jjhou_s_career_suggestions.html)
