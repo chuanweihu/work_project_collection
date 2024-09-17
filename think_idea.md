@@ -1,1 +1,0 @@
-- [什么是“对用户友好”](https://www.yinwang.org/blog-cn/2012/05/18/user-friendliness)
