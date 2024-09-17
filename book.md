@@ -1,1 +1,0 @@
-- [黑客与画家](https://book.douban.com/subject/6021440/)
